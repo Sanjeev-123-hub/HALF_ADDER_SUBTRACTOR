@@ -82,4 +82,4 @@ Developed by: Sangeeth J ; RegisterNumber: 25016967
 ![alt text](<Screenshot 2025-11-19 135936.png>)
 
 **Result:**
-Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+Thus the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using Quartus software.
